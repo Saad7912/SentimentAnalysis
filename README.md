@@ -64,13 +64,15 @@ history = model.fit(X_train, Y_train, epochs=5, batch_size=64, validation_split=
 ```
 
 ### Results
-Accuracy: The model achieved an accuracy of approximately 85% on the test set.
-Training and validation accuracy graphs indicate the model’s performance over epochs.
+- Accuracy: The model achieved an accuracy of approximately 85% on the test set.
+- Training and validation accuracy graphs indicate the model’s performance over epochs.
 
 ### Future Scope
-Experiment with other architectures like GRU or Bi-LSTM.
-Implement attention mechanisms to better capture context.
-Fine-tune hyperparameters for improved performance.
+- Experiment with other architectures like GRU or Bi-LSTM.
+- Implement attention mechanisms to better capture context.
+- Fine-tune hyperparameters for improved performance.
+
+Feel free to contribute or suggest improvements!
 
 Feel free to contribute or suggest improvements!
 
