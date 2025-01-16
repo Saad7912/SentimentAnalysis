@@ -74,5 +74,4 @@ history = model.fit(X_train, Y_train, epochs=5, batch_size=64, validation_split=
 
 Feel free to contribute or suggest improvements!
 
-Feel free to contribute or suggest improvements!
 
